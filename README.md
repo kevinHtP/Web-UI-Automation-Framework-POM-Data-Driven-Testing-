@@ -14,6 +14,8 @@ Proyek ini adalah *framework* pengujian otomatisasi *Web UI* tingkat lanjut yang
 *   **Reporting:** Allure Report
 *   **Data Source:** CSV (Built-in Python `csv` module)
 
+  <img width="1352" height="665" alt="allure" src="https://github.com/user-attachments/assets/c28ccddd-5d69-43b0-a6aa-30ae4d1e3dae" />
+
 ## 📁 Struktur Arsitektur Proyek
 ```text
 qa-framework-pom/
@@ -28,5 +30,3 @@ qa-framework-pom/
 ├── allure-results/           # Direktori output data mentah Allure (Digenerate otomatis)
 ├── conftest.py               # Konfigurasi global Pytest & Playwright
 └── README.md
-
-<img width="1352" height="665" alt="allure" src="https://github.com/user-attachments/assets/c28ccddd-5d69-43b0-a6aa-30ae4d1e3dae" />
